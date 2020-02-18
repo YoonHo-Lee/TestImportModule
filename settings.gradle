@@ -1,0 +1,2 @@
+include ':app', ':multipleimageselect', ':card.io'
+rootProject.name='TestImportModule'
